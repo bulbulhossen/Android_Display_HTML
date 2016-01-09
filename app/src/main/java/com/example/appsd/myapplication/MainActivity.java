@@ -8,7 +8,10 @@ import android.text.Html;
 import android.widget.TextView;
 public class MainActivity extends Activity {
 
-    private final String htmlText = "<body><h1>Heading Text</h1><p>This tutorial " +
+    private final
+
+    //html code
+    String htmlText = "<body><h1>Heading Text</h1><p>This tutorial " +
             "explains how to display " +
             "<strong>HTML </strong>text in android text view.&nbsp;</p>" +
             "<img src=\"hughjackman.jpg\">" +
